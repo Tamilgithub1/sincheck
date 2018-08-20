@@ -6,7 +6,7 @@ public static void main(String[] args) {
 	int n=in.nextInt();
 	if(n==0)
 	{
-		System.out.println("IT'S NOT A POSITIVE AND NEGATIVE NUMBER");
+		System.out.println("ZERO");
 	}
 	if(n<0)
 	{
